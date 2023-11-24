@@ -33,6 +33,7 @@ div {
     margin-right: 5px;
     border: 2px groove #2c3e50; /* Gris oscuro */
     position: relative;
+    height: 400px;
 }
 
 #pie {
